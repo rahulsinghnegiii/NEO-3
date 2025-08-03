@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.*
+!.env.prod.example
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+client/build/
+coverage/
+
+# Logs
+*.log
+logs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+__tests__/
+test/
+tests/
+*.test.js
+
+# Development specific
+client/node_modules/
+client/cypress/
+cypress/
+cypress.config.js
+cypress.json

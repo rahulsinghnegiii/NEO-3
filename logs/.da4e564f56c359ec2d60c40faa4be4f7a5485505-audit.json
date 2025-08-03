@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "G:\\Freelancing PROJECTS DEV\\WORK\\sandy\\2\\NEO-3\\logs\\.da4e564f56c359ec2d60c40faa4be4f7a5485505-audit.json",
+    "files": [
+        {
+            "date": 1754213707653,
+            "name": "G:\\Freelancing PROJECTS DEV\\WORK\\sandy\\2\\NEO-3\\logs\\exceptions-2025-08-03.log",
+            "hash": "7112319970e00e812e9b0d70f9ddee26ac3f40237b07b61aad250b4e672c4d7b"
+        }
+    ],
+    "hashType": "sha256"
+}
