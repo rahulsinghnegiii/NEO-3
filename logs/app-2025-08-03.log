@@ -219,3 +219,7 @@
 {"level":"info","message":"🔄 Starting scheduled upload cycle...","timestamp":"2025-08-03 21:30:00"}
 {"level":"info","message":"✅ Scheduled processing cycle completed","timestamp":"2025-08-03 21:30:00"}
 {"level":"info","message":"✅ Scheduled upload cycle completed","timestamp":"2025-08-03 21:30:00"}
+{"level":"info","message":"📡 Client connected: ph9PV1YTdRaE9ccrAAAH","timestamp":"2025-08-03 21:38:27"}
+{"level":"info","message":"📡 Client disconnected: ph9PV1YTdRaE9ccrAAAH","timestamp":"2025-08-03 21:38:48"}
+{"level":"info","message":"📡 Client connected: dFkaMrSPKaDZQFfsAAAJ","timestamp":"2025-08-03 21:49:34"}
+{"level":"info","message":"📡 Client disconnected: dFkaMrSPKaDZQFfsAAAJ","timestamp":"2025-08-03 21:50:04"}
